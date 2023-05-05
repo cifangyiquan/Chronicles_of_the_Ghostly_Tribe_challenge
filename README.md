@@ -1,0 +1,2 @@
+# Chronicles_of_the_Ghostly_Tribe_challenge
+LLMs九层妖塔挑战赛
