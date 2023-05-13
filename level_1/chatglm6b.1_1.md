@@ -1,4 +1,4 @@
-# ChatGLM学习实战-闯关笔记
+# [1.1]ChatGLM学习实战-闯关笔记
 
 > ChatGLM-6B 是清华与智谱AI开源的LLM模型。官网地址：[https://chatglm.cn/blog](https://chatglm.cn/blog)
 > 
