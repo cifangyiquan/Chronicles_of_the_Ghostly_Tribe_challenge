@@ -28,3 +28,8 @@ pip3 install -e .
 | 13B  | `python3 -m fastchat.serve.cli --model-path lmsys/vicuna-13b-v1.3` | [lmsys/vicuna-13b-v1.3](https://huggingface.co/lmsys/vicuna-13b-v1.3) |
 
 ## 使用效果
+"""
+Loading checkpoint shards: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:59<00:00, 29.63s/it]Human: 你好Assistant: 你好！有什么我可以帮助你的吗？Human: 你是谁Assistant: 我是 Assistant，一个人工智能助手。我可以回答你关于各种话题的问题，并根据你的需要提供建议和解决方案。你需要什么帮助吗？Human:
+"""
+
+> 如果huggingface连接不上，可以尝试用modelscope下载模型
